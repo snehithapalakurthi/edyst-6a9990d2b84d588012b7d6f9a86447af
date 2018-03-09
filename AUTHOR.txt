@@ -1,0 +1,3 @@
+# Details
+- author: snehitapalakurthi17@gmail.com
+- role: STUDENT
